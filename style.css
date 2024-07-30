@@ -1,3 +1,4 @@
-p{
-    color: red;
+body{
+    background-image: url(image1b.jpg);
+    background-size: cover;
 }
